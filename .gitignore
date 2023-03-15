@@ -1,0 +1,7 @@
+# Ignore Database files
+users.db
+
+
+# Ignore Cache files
+src.__pycache__
+__pycache__
